@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{FC9411EB-1B12-4154-0219-EEA7CBD09863}</ProjectGuid>
+    <ProjectGuid>{030A76FC-CBE0-4206-F454-362591973503}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -55,7 +55,7 @@
      <Compile Include="Assets\TextureScale.cs" />
      <Compile Include="Assets\Webcam.cs" />
  <Reference Include="Facebook.Unity.Settings">
- <HintPath>/UBC-O/25993130/Desktop/New Unity Project 1/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
+ <HintPath>/UBC-O/25993130/ColorRecognitionDetection/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Analytics">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
