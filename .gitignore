@@ -1,3 +1,7 @@
 Temp/
 obj/
 Library/
+*.sln
+*.userprefs
+*.csproj
+.DS_STORE
